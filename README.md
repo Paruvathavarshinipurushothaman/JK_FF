@@ -21,7 +21,8 @@ Here, Qtt & Qt+1t+1 are present state & next state respectively. So, JK flip-flo
 <img width="575" height="487" alt="image" src="https://github.com/user-attachments/assets/5d2e86ba-d2ab-41f7-a9dd-60a9799fd0f9" />
 By using three variable K-Map, we can get the simplified expression for next state, Qt+1t+1. Three variable K-Map for next state, Qt+1t+1 is shown in the following figure. 
 <img width="357" height="248" alt="image" src="https://github.com/user-attachments/assets/00c1ff29-df84-4036-937d-12394d0037bc" />
-The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t) 
+The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t)
+
 RESULTS:
 Thus the JK flipflop using verilog and validating their functionality using their functional tables is implemented and verified. 
 
